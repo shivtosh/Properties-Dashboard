@@ -1,0 +1,61 @@
+date,address,price,lat,lng,bedrooms,type,tenure,class,sqf,price_per_sqf,distance,postcode
+2022-03-25,"17, Constabulary Close, UB7 7GE",361500,51.5029508,-0.4673941,,flat,leasehold,old_stock,764,473,0.00,UB77GE
+2022-11-14,"19, Harmondsworth Road, UB7 9JJ",490000,51.5018987,-0.4668302,,terraced_house,freehold,old_stock,818,599,0.07,UB79JJ
+2022-03-29,"4, Thornton Avenue, UB7 9JT",460000,51.5028085,-0.4654538,,semi-detached_house,freehold,old_stock,829,555,0.08,UB79JT
+2022-09-05,"5, Thornton Avenue, UB7 9JT",272900,51.5028085,-0.4654538,,semi-detached_house,freehold,old_stock,994,275,0.08,UB79JT
+2022-12-22,"6, Thornton Avenue, UB7 9JT",445000,51.5028085,-0.4654538,,semi-detached_house,freehold,old_stock,753,591,0.08,UB79JT
+2022-10-28,"19, Sipson Road, UB7 9DQ",480000,51.502011,-0.465789,,semi-detached_house,freehold,old_stock,1012,474,0.09,UB79DQ
+2023-02-10,"21, West Drayton Park Avenue, UB7 7QA",630000,51.5032896,-0.4700542,,semi-detached_house,freehold,old_stock,1044,603,0.12,UB77QA
+2022-12-09,"54, Sipson Road, UB7 9DP",450000,51.5013039,-0.4659222,,terraced_house,freehold,old_stock,721,624,0.13,UB79DP
+2022-09-23,"68, Sipson Road, UB7 9DP",520000,51.5013039,-0.4659222,3.0,semi-detached_house,freehold,old_stock,864,602,0.13,UB79DP
+2022-03-16,"Flat 5, Rectory Court, 191, Station Road, UB7 7NL",265000,51.5049007,-0.4675581,,flat,leasehold,old_stock,592,448,0.14,UB77NL
+2022-06-13,"19, Church Road, UB7 7PT",725000,51.5044287,-0.4705204,,detached_house,freehold,old_stock,1238,586,0.17,UB77PT
+2022-05-25,"14, Kings Road, UB7 9EF",490000,51.5051586,-0.4646487,,semi-detached_house,freehold,old_stock,764,641,0.19,UB79EF
+2022-02-25,"10, Stainby Close, UB7 9NH",571000,51.5004996,-0.469519,4.0,detached_house,freehold,old_stock,1001,570,0.19,UB79NH
+2022-07-15,"40, North Road, UB7 9LD",463000,51.5011593,-0.4632387,,terraced_house,freehold,old_stock,915,506,0.21,UB79LD
+2022-08-03,"54, North Road, UB7 9LE",400000,51.503016,-0.4620753,3.0,terraced_house,freehold,old_stock,807,496,0.22,UB79LE
+2022-11-23,"Flat 28, Arlington House, 1, Park Lodge Avenue, UB7 9FD",350000,51.5051648,-0.4633636,,flat,leasehold,old_stock,807,434,0.23,UB79FD
+2022-06-10,"Flat 1, Burlington House, 2, Park Lodge Avenue, UB7 9FE",285000,51.505207,-0.4633331,,,leasehold,old_stock,592,481,0.23,UB79FE
+2022-06-14,"89, North Road, UB7 9LF",466000,51.5035996,-0.461721,3.0,semi-detached_house,freehold,old_stock,797,585,0.24,UB79LF
+2022-03-04,"10, North Road, UB7 9LD",430000,51.5006891,-0.4631409,3.0,semi-detached_house,freehold,old_stock,797,540,0.24,UB79LD
+2022-07-14,"43, Maxwell Road, UB7 9HW",440000,51.4993842,-0.4657044,,semi-detached_house,freehold,old_stock,883,498,0.26,UB79HW
+2022-12-16,"17, Vine Lane, UB10 0AY",692476,51.5363775,-0.4600573,,semi-detached_house,freehold,old_stock,958,723,0.00,B100AY
+2022-07-07,"5, Vine Lane, UB10 0AY",715000,51.5363775,-0.4600573,3.0,semi-detached_house,freehold,old_stock,1238,578,0.00,B100AY
+2022-12-09,"3, Devon Way, UB10 0JS",742950,51.5360876,-0.4607073,,semi-detached_house,freehold,old_stock,1281,580,0.03,B100JS
+2023-03-31,"1, Devon Way, UB10 0JS",825000,51.5360876,-0.4607073,,semi-detached_house,freehold,old_stock,1238,666,0.03,B100JS
+2023-04-11,"99, Hillingdon Hill, UB10 0JQ",193000,51.5354198,-0.4612057,,flat,leasehold,old_stock,581,332,0.08,B100JQ
+2022-06-01,"97, Hillingdon Hill, UB10 0JQ",350000,51.5354197,-0.4611913,2.0,flat,leasehold,old_stock,786,445,0.08,B100JQ
+2022-07-07,"23, The Rise, UB10 0JL",710000,51.5364955,-0.462011,,semi-detached_house,freehold,old_stock,936,759,0.08,B100JL
+2022-08-11,"37, Vine Lane, UB10 0BA",815000,51.5376401,-0.4596542,,semi-detached_house,freehold,old_stock,1238,658,0.09,B100BA
+2023-01-04,"6, Dorset Way, UB10 0JR",733000,51.5375801,-0.4613779,,semi-detached_house,freehold,old_stock,1238,592,0.10,B100JR
+2022-12-14,"39, The Rise, UB10 0JL",840000,51.5367577,-0.4624294,,detached_house,freehold,old_stock,1453,578,0.10,B100JL
+2022-04-12,"28, Cedars Drive, UB10 0JU",910000,51.5377111,-0.4584316,4.0,detached_house,freehold,old_stock,1485,613,0.12,B100JU
+2022-05-31,"58, Buckingham Grove, UB10 0QZ",440000,51.5358938,-0.457464,,terraced_house,freehold,old_stock,1023,430,0.12,B100QZ
+2022-01-14,"140, Charnwood Road, UB10 0HZ",405000,51.5358095,-0.4566506,,terraced_house,freehold,old_stock,1109,365,0.15,B100HZ
+2023-01-25,"67, Hillingdon Hill, UB10 0JG",745000,51.5354963,-0.4634898,,detached_house,freehold,old_stock,1033,721,0.16,B100JG
+2022-06-15,"51, Hillingdon Hill, UB10 0JG",790000,51.5354963,-0.4634898,,detached_house,freehold,old_stock,1765,448,0.16,B100JG
+2022-06-10,"7, Cedars Drive, UB10 0JT",835000,51.5387347,-0.4587808,,detached_house,freehold,old_stock,1163,718,0.17,B100JT
+2022-05-03,"8, Stratford Avenue, UB10 0JW",715000,51.5359232,-0.4639112,,semi-detached_house,freehold,old_stock,1066,671,0.17,B100JW
+2023-03-03,"2, Mills Close, UB10 0JY",602500,51.5382166,-0.4571172,,detached_house,freehold,old_stock,764,789,0.18,B100JY
+2022-07-15,"131, Charnwood Road, UB10 0JA",410000,51.5357555,-0.4558394,2.0,terraced_house,freehold,old_stock,861,476,0.19,B100JA
+2022-09-23,"1, Keilder Close, UB10 0EU",275000,51.5364413,-0.4554613,,flat,leasehold,old_stock,459,599,0.20,B100EU
+2022-03-10,"36, Ratcliffe Close, UB8 2DD",300000,51.5317619,-0.4784507,,terraced_house,freehold,old_stock,420,714,0.10,UB82DD
+2022-02-10,"153, Cowley Road, UB8 2AJ",575000,51.5342067,-0.4821258,,semi-detached_house,freehold,old_stock,980,587,0.13,UB82AJ
+2022-08-01,"173, Cowley Road, UB8 2AJ",582000,51.5332407,-0.4829284,3.0,semi-detached_house,freehold,old_stock,1152,505,0.14,UB82AJ
+2022-03-31,"20a, Norton Road, UB8 2PT",202500,51.5352811,-0.4781265,,semi-detached_house,leasehold,old_stock,667,304,0.17,UB82PT
+2022-10-31,"10, Norton Road, UB8 2PT",760000,51.5352527,-0.4780376,,semi-detached_house,freehold,old_stock,1916,397,0.17,UB82PT
+2022-01-21,"30, Cleveland Road, UB8 2DR",625000,51.5313936,-0.4764014,,detached_house,freehold,old_stock,1033,605,0.18,UB82DR
+2022-10-03,"3, Ferndale Crescent, UB8 2AU",615000,51.5345805,-0.4836191,4.0,semi-detached_house,freehold,old_stock,1216,506,0.20,UB82AU
+2022-01-17,"37, Station Road, UB8 3AB",840000,51.5306099,-0.4771256,,detached_house,freehold,old_stock,1604,524,0.20,UB83AB
+2022-04-29,"2, Barchester Close, UB8 2JY",365000,51.5312589,-0.4833527,2.0,terraced_house,freehold,old_stock,829,440,0.20,UB82JY
+2022-07-06,"14, Elthorne Road, UB8 2PS",275000,51.5358955,-0.4783766,,terraced_house,leasehold,old_stock,517,532,0.21,UB82PS
+2023-02-28,"16, Elthorne Road, UB8 2PS",410000,51.5358955,-0.4783766,,semi-detached_house,freehold,old_stock,926,443,0.21,UB82PS
+2022-03-31,"31, Cleveland Road, UB8 2DR",540000,51.5307791,-0.4765103,,semi-detached_house,freehold,old_stock,1109,487,0.21,UB82DR
+2022-04-25,"17, Ferndale Crescent, UB8 2AX",515000,51.5343721,-0.4843633,,semi-detached_house,freehold,old_stock,936,550,0.22,UB82AX
+2022-05-23,"22, Barchester Close, UB8 2JY",540000,51.531194,-0.4840407,,terraced_house,freehold,old_stock,1356,398,0.22,UB82JY
+2022-02-04,"30, Barchester Close, UB8 2JY",435000,51.531194,-0.4840407,,semi-detached_house,freehold,old_stock,1238,351,0.22,UB82JY
+2022-03-31,"7, Heritage Close, UB8 2LA",335000,51.5306176,-0.4829625,2.0,semi-detached_house,freehold,old_stock,840,399,0.22,UB82LA
+2022-04-27,"3, Queens Road, UB8 2NN",670000,51.5360289,-0.4810574,,semi-detached_house,freehold,old_stock,1195,561,0.22,UB82NN
+2022-07-04,"25, Kings Road, UB8 2NW",720000,51.536147,-0.4797974,4.0,terraced_house,freehold,old_stock,1658,434,0.22,UB82NW
+2022-05-04,"20, Ferndale Crescent, UB8 2AX",530000,51.5346393,-0.4843216,3.0,semi-detached_house,freehold,old_stock,872,608,0.23,UB82AX
+2022-12-14,"7, Hogarth Close, UB8 2BF",332000,51.535508,-0.4831765,,flat,leasehold,old_stock,678,490,0.23,UB82BF
